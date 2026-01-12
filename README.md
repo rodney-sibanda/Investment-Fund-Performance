@@ -8,11 +8,17 @@ The portfolio includes a blend of equity-focused and balanced funds — XEC, XBA
 
 Rather than relying on a single performance metric, the project evaluates returns through both absolute performance (total gains over a six-month period) and risk-adjusted performance, using the Sharpe Ratio to account for volatility. This approach highlights the trade-offs between higher returns and increased risk, providing a more realistic framework for portfolio decision-making. 
 
-## Key Insights & Portfolio Implications
+## Performance Summary
 
+### Risk-Adjusted Performance (Sharpe Ratio)
 <img width="1866" height="241" alt="image" src="https://github.com/user-attachments/assets/e2865924-65e2-48aa-b9f6-dc8373b33f40" />
 
+### Total Returns – Top Gainers (6-Month Period)
 <img width="1852" height="399" alt="image" src="https://github.com/user-attachments/assets/4395d91f-0729-4416-b45d-b1ff62ed3e6a" />
+
+Link to Dashboard: https://public.tableau.com/app/profile/rodney.sibanda6042/viz/PortfolioPerformanceDashboard_17657712163260/Dashboard1?publish=yes
+
+## Key Insights & Portfolio Implications
 
 ### Key Insights
 
@@ -36,5 +42,3 @@ While XEC can enhance returns during favourable market conditions, its lower Sha
 
 
 
-
-Link to Dashboard: https://public.tableau.com/app/profile/rodney.sibanda6042/viz/PortfolioPerformanceDashboard_17657712163260/Dashboard1?publish=yes
